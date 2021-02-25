@@ -1,5 +1,9 @@
-import { fishCollection } from "./fishData.js";
 console.log("Main is loaded");
 
-console.log("fishCollection", fishCollection);
-import { fish } from "./fish.js"
+import { getFish } from "./fishData.js";
+
+const allTheFish = getFish()
+
+for (const fish of allTheFish) {
+    console.log(fish)
+}

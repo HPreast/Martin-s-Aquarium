@@ -1,4 +1,4 @@
-export const fishCollection = [
+ const fishCollection = [
 	{
 		saltWater: true,
 		harvestLocation: "Pacific Ocean",
@@ -201,7 +201,7 @@ export const fishCollection = [
 		inches: 7,
 		image: "bluefish.jpg"
 	},
-	{ saltWater: true, harvestLocation: "Atlantic, Pacific, and southern sea", diet: "smaller fish", name: "bluefin tuna", species: "Thunnus thynnus", inches: 84, image: "bluefin.jpg" },
+	{ saltWater: true, harvestLocation: "Atlantic, Pacific, and southern sea", diet: "smaller fish", name: "bluefin tuna", species: "Thunnus thynnus", inches: 84, image: "bluefin.pg" },
 	{
 		saltwater: true,
 		harvestLocation: "Baltic Sea",
@@ -212,3 +212,7 @@ export const fishCollection = [
 		image: "bluefish.jpg"
 	}
 ];
+
+export const getFish = () => {
+	return fishCollection
+}
