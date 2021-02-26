@@ -184,7 +184,7 @@
 	},
 	{ saltWater: false, harvestLocation: "Amazon River", diet: "smaller fish", name: "Bitey", species: "Pirhana", inches: 7.5, image: "bluefish.jpg" },
 	{
-		saltwater: true,
+		saltWater: true,
 		harvestLocation: "St.Croix",
 		diet: "squid",
 		name: "Crush",
@@ -203,7 +203,7 @@
 	},
 	{ saltWater: true, harvestLocation: "Atlantic, Pacific, and southern sea", diet: "smaller fish", name: "bluefin tuna", species: "Thunnus thynnus", inches: 84, image: "bluefin.pg" },
 	{
-		saltwater: true,
+		saltWater: true,
 		harvestLocation: "Baltic Sea",
 		diet: "smaller fish",
 		name: "Fil",
