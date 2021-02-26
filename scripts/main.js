@@ -9,5 +9,5 @@
 // }
 
 // import { fish } from "./fish.js"
-import { fishList } from "./fishList.js"
+import { fishList } from "./fish/fishList.js"
 fishList()
