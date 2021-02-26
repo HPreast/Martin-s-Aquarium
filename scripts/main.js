@@ -7,3 +7,7 @@ const allTheFish = getFish()
 for (const fish of allTheFish) {
     console.log(fish)
 }
+
+import { fish } from "./fish.js"
+import { fishList } from "./fishList.js"
+fishList()
