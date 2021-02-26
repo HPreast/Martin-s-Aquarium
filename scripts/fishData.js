@@ -17,7 +17,7 @@
 		inches: 3,
 		image: "pinkfish.jpg"
 	},
-	{ saltWater: true, harvestLocation: "Atlantic Ocean", diet: "squid", name: "BigBoss", species: "Amber Jack", inches: 60, image: "greyfish.jpg" },
+	{ saltWater: true, harvestLocation: "Atlantic Ocean", diet: "squid", name: "BigBoss", species: "Amber Jack", inches: 60, image: "bluefish.jpg" },
 	{
 		saltWater: true,
 		harvestLocation: "Pacific Ocean",
@@ -43,7 +43,7 @@
 		name: "Sabre",
 		species: "Swordfish",
 		inches: 117.6,
-		image: "bluefish.jpg"
+		image: "pinkfish.jpg"
 	},
 	{
 		saltWater: false,
@@ -79,7 +79,7 @@
 		name: "Ralph",
 		species: "Smallmouth Bass",
 		inches: 14,
-		image: "bluefish.jpg"
+		image: "pinkfish.jpg"
 	},
 	{
 		saltWater: false,
@@ -88,10 +88,10 @@
 		name: "Whiskers",
 		species: "Ictalurus furcatus",
 		inches: 39,
-		image: "blueCatfish.jpg"
+		image: "bluefish.jpg"
 	},
 	{ saltWater: true, harvestLocation: "South Pacific", diet: "shrimp", inches: 64, species: "Tuna", name: "Bruno", image: "bluefish.jpg" },
-	{ saltWater: false, harvestLocation: "Petsmart", diet: "algae", name: "Dorothy", species: "goldfish", inches: 3, img: "bluefish.jpg" },
+	{ saltWater: false, harvestLocation: "Petsmart", diet: "algae", name: "Dorothy", species: "goldfish", inches: 3, image: "bluefish.jpg" },
 	{
 		saltWater: false,
 		harvestLocation: "Lake Tahoe",
@@ -108,7 +108,7 @@
 		name: "Stephen",
 		species: "Angler",
 		inches: 23,
-		image: "bluefish.jpg"
+		image: "pinkfish.jpg"
 	},
 	{
 		saltWater: true,
@@ -117,7 +117,7 @@
 		name: "Pizza",
 		species: "Tuna",
 		inches: 40,
-		image: "tuna.jpg"
+		image: "bluefish.jpg"
 	},
 	{
 		saltWater: false,
@@ -126,7 +126,7 @@
 		name: "Finn",
 		species: "Bass",
 		inches: 20,
-		image: "bluefish.jpeg",
+		image: "bluefish.jpg",
 	},
 	{
 		saltWater: true,
@@ -153,14 +153,14 @@
 		name: "Bobo",
 		species: "Clown Fish",
 		inches: 5,
-		image: "bluefish.jpg"
+		image: "pinkfish.jpg"
 	},
 	{
 		saltWater: true,
 		harvestLocation: "Atlantic Sea",
 		name: "flipper",
 		inches: 12,
-		image: "orangefish.jpg",
+		image: "bluefish.jpg",
 		diet: "worms",
 		species: "garibaldi"
 	},
@@ -201,13 +201,13 @@
 		inches: 7,
 		image: "bluefish.jpg"
 	},
-	{ saltWater: true, harvestLocation: "Atlantic, Pacific, and southern sea", diet: "smaller fish", name: "bluefin tuna", species: "Thunnus thynnus", inches: 84, image: "bluefin.pg" },
+	{ saltWater: true, harvestLocation: "Atlantic, Pacific, and southern sea", diet: "smaller fish", name: "bluefin tuna", species: "Thunnus thynnus", inches: 84, image: "bluefish.jpg" },
 	{
 		saltWater: true,
 		harvestLocation: "Baltic Sea",
 		diet: "smaller fish",
 		name: "Fil",
-		species: "goldFish",
+		species: "Gold Fish",
 		inches: 40,
 		image: "bluefish.jpg"
 	}
