@@ -14,3 +14,6 @@ fishList()
 
 import { tipList } from "./tips/tipList.js"
 tipList()
+
+import { locationList } from "./locations/locationsList.js"
+locationList()
